@@ -1,0 +1,53 @@
+
+.previewModel03 {
+    background-color: white;
+    margin: 20px auto;
+}
+
+.previewModel03 * {
+    font-family: Arial;
+}
+
+.M03_TopPanel {
+    margin-bottom: 20px;
+}
+
+.M03_BlankPanel {
+    margin: 15px auto;
+}
+
+.M03_Name {
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    font-weight: bold;
+    word-spacing: 1px;
+    font-size: 18px;
+    font-family: SimHei, 黑体, Hei, 华文细黑, 华文黑体;
+}
+
+.M03_InfoLabel {
+    color: #666666;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: left;
+    padding-left: 10px;
+    overflow: hidden;
+}
+.M03_EduLabel {
+    color: #666666;
+    font-size: 12px;
+    line-height: 22px;
+    text-align: right;
+    font-weight: bold;
+    font-family: SimSun, 宋体, 华文宋体;
+}
+
+.M03_EduContentLabel {
+    color: #666666;
+    font-size: 12px;
+    padding-left: 10px;
+    text-overflow: ellipsis; /*设置超出部分显示...*/
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+}

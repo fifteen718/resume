@@ -1,0 +1,376 @@
+/*-------------------------------- basic colorChange start --------------------------------*/
+.colorSelectPanel {
+    float: left;
+    border-left: 2px dotted #99BBE8;
+}
+
+.colorSelectPanelTitle {
+    font-size: 14px;
+    line-height: 28px;
+}
+
+.colorSelectLabel {
+    border-radius: 10px;
+}
+
+.colorSelectLabel:hover {
+    transform: scale(1.1, 1.1);
+    -ms-transform: scale(1.1, 1.1); /* IE 9 */
+    -moz-transform: scale(1.1, 1.1); /* Firefox */
+    -webkit-transform: scale(1.1, 1.1); /* Safari 和 Chrome */
+    -o-transform: scale(1.1, 1.1); /* Opera */
+}
+
+.colorSelectChange {
+    border-radius: 0;
+}
+
+.color01 {
+    background-color: #6AA84F;
+}
+
+.color02 {
+    background-color: #FF895D;
+}
+
+.color03 {
+    background-color: #FBD400;
+}
+
+.color04 {
+    background-color: #78BBE6;
+}
+
+.color05 {
+    background-color: #8C8C8C;
+}
+
+.color06 {
+    background-color: #AA96DA;
+}
+
+/*-------------------------------- basic colorChange end --------------------------------*/
+
+/*-------------------------------- previewModel01 colorChange start --------------------------------*/
+.colorStyle01 .eduPanel {
+    border-top: 2px solid #6AA84F;
+}
+
+.colorStyle02 .eduPanel {
+    border-top: 2px solid #FF895D;
+}
+
+.colorStyle03 .eduPanel {
+    border-top: 2px solid #FBD400;
+}
+
+.colorStyle04 .eduPanel {
+    border-top: 2px solid #78BBE6;
+}
+
+.colorStyle05 .eduPanel {
+    border-top: 2px solid #8C8C8C;
+}
+
+.colorStyle06 .eduPanel {
+    border-top: 2px solid #AA96DA;
+}
+
+.colorStyle01 .eduTitleLabel {
+    font-size: 14px;
+    color: #6AA84F;
+    line-height: 18px;
+    text-align: left;
+}
+
+.colorStyle02 .eduTitleLabel {
+    font-size: 14px;
+    color: #FF895D;
+    line-height: 18px;
+    text-align: left;
+}
+
+.colorStyle03 .eduTitleLabel {
+    font-size: 14px;
+    color: #FBD400;
+    line-height: 18px;
+    text-align: left;
+}
+
+.colorStyle04 .eduTitleLabel {
+    font-size: 14px;
+    color: #78BBE6;
+    line-height: 18px;
+    text-align: left;
+}
+
+.colorStyle05 .eduTitleLabel {
+    font-size: 14px;
+    color: #8C8C8C;
+    line-height: 18px;
+    text-align: left;
+}
+
+.colorStyle06 .eduTitleLabel {
+    font-size: 14px;
+    color: #AA96DA;
+    line-height: 18px;
+    text-align: left;
+}
+
+/*-------------------------------- previewModel01 colorChange end --------------------------------*/
+
+/*-------------------------------- previewModel02 colorChange start --------------------------------*/
+.colorStyle01 .M02_Job {
+    color: #6AA84F;
+}
+
+.colorStyle02 .M02_Job {
+    color: #FF895D;
+}
+
+.colorStyle03 .M02_Job {
+    color: #FBD400;
+}
+
+.colorStyle04 .M02_Job {
+    color: #78BBE6;
+}
+
+.colorStyle05 .M02_Job {
+    color: #8C8C8C;
+}
+
+.colorStyle06 .M02_Job {
+    color: #AA96DA;
+}
+
+.colorStyle01 .M02_SpotLabel {
+    background-color: #6AA84F;
+}
+
+.colorStyle02 .M02_SpotLabel {
+    background-color: #FF895D;
+}
+
+.colorStyle03 .M02_SpotLabel {
+    background-color: #FBD400;
+}
+
+.colorStyle04 .M02_SpotLabel {
+    background-color: #78BBE6;
+}
+
+.colorStyle05 .M02_SpotLabel {
+    background-color: #8C8C8C;
+}
+
+.colorStyle06 .M02_SpotLabel {
+    background-color: #AA96DA;
+}
+
+.colorStyle01 .M02_EduContentLabel {
+    border-left-color: #6AA84F;
+}
+
+.colorStyle02 .M02_EduContentLabel {
+    border-left-color: #FF895D;
+}
+
+.colorStyle03 .M02_EduContentLabel {
+    border-left-color: #FBD400;
+}
+
+.colorStyle04 .M02_EduContentLabel {
+    border-left-color: #78BBE6;
+}
+
+.colorStyle05 .M02_EduContentLabel {
+    border-left-color: #8C8C8C;
+}
+
+.colorStyle06 .M02_EduContentLabel {
+    border-left-color: #AA96DA;
+}
+/*-------------------------------- previewModel02 colorChange end --------------------------------*/
+
+/*-------------------------------- previewModel03 colorChange start --------------------------------*/
+.colorStyle01 .M03_Name, .colorStyle01 .M03_TopBlank01, .colorStyle01 .M03_TopBlank03, .colorStyle01 .M03_TopBlank05, .colorStyle01 .M03_TopBlank07 {
+    background-color: #62D2A2;
+}
+
+.colorStyle01 .M03_TopBlank02, .colorStyle01 .M03_TopBlank06 {
+    background-color: #9DF3C4;
+}
+
+.colorStyle01 .M03_TopBlank04, .colorStyle01 .M03_TopBlank09 {
+    background-color: #D7FBE8;
+}
+
+.colorStyle01 .M03_TopBlank08 {
+    background-color: #1FAB89;
+}
+
+.colorStyle01 .M03_BlankPanel, .colorStyle01 .M03_BlankLabel {
+    background-color: #9DF3C4;
+}
+
+.colorStyle01 .M03_InfoPanel {
+    border-bottom: 1px solid #9DF3C4;
+}
+
+.colorStyle01 .M03_EduContentLabel {
+    border-left: 1px solid #9DF3C4;
+}
+
+
+
+.colorStyle02 .M03_Name, .colorStyle02 .M03_TopBlank01, .colorStyle02 .M03_TopBlank03, .colorStyle02 .M03_TopBlank05, .colorStyle02 .M03_TopBlank07 {
+    background-color: #FF7C38;
+}
+
+.colorStyle02 .M03_TopBlank02, .colorStyle02 .M03_TopBlank06 {
+    background-color: #FF895D;
+}
+
+.colorStyle02 .M03_TopBlank04, .colorStyle02 .M03_TopBlank09 {
+    background-color: #FFD6A6;
+}
+
+.colorStyle02 .M03_TopBlank08 {
+    background-color: #E03E36;
+}
+
+.colorStyle02 .M03_BlankPanel, .colorStyle02 .M03_BlankLabel {
+    background-color: #FF895D;
+}
+
+.colorStyle02 .M03_InfoPanel {
+    border-bottom: 1px solid #FF895D;
+}
+
+.colorStyle02 .M03_EduContentLabel {
+    border-left: 1px solid #FF895D;
+}
+
+
+
+.colorStyle03 .M03_Name, .colorStyle03 .M03_TopBlank01, .colorStyle03 .M03_TopBlank03, .colorStyle03 .M03_TopBlank05, .colorStyle03 .M03_TopBlank07 {
+    background-color: #FFB400;
+}
+
+.colorStyle03 .M03_TopBlank02, .colorStyle03 .M03_TopBlank06 {
+    background-color: #FBD400;
+}
+
+.colorStyle03 .M03_TopBlank04, .colorStyle03 .M03_TopBlank09 {
+    background-color: #FCFFC9;
+}
+
+.colorStyle03 .M03_TopBlank08 {
+    background-color: #EFD510;
+}
+
+.colorStyle03 .M03_BlankPanel, .colorStyle03 .M03_BlankLabel {
+    background-color: #FBD400;
+}
+
+.colorStyle03 .M03_InfoPanel {
+    border-bottom: 1px solid #FBD400;
+}
+
+.colorStyle03 .M03_EduContentLabel {
+    border-left: 1px solid #FBD400;
+}
+
+
+
+.colorStyle04 .M03_Name, .colorStyle04 .M03_TopBlank01, .colorStyle04 .M03_TopBlank03, .colorStyle04 .M03_TopBlank05, .colorStyle04 .M03_TopBlank07 {
+    background-color: #5E88FC;
+}
+
+.colorStyle04 .M03_TopBlank02, .colorStyle04 .M03_TopBlank06 {
+    background-color: #78BBE6;
+}
+
+.colorStyle04 .M03_TopBlank04, .colorStyle04 .M03_TopBlank09 {
+    background-color: #74DBEF;
+}
+
+.colorStyle04 .M03_TopBlank08 {
+    background-color: #264E86;
+}
+
+.colorStyle04 .M03_BlankPanel, .colorStyle04 .M03_BlankLabel {
+    background-color: #78BBE6;
+}
+
+.colorStyle04 .M03_InfoPanel {
+    border-bottom: 1px solid #78BBE6;
+}
+
+.colorStyle04 .M03_EduContentLabel {
+    border-left: 1px solid #78BBE6;
+}
+
+
+
+.colorStyle05 .M03_Name, .colorStyle05 .M03_TopBlank01, .colorStyle05 .M03_TopBlank03, .colorStyle05 .M03_TopBlank05, .colorStyle05 .M03_TopBlank07 {
+    background-color: #666666;
+}
+
+.colorStyle05 .M03_TopBlank02, .colorStyle05 .M03_TopBlank06 {
+    background-color: #999999;
+}
+
+.colorStyle05 .M03_TopBlank04, .colorStyle05 .M03_TopBlank09 {
+    background-color: #CCCCCC;
+}
+
+.colorStyle05 .M03_TopBlank08 {
+    background-color: #444444;
+}
+
+.colorStyle05 .M03_BlankPanel, .colorStyle05 .M03_BlankLabel {
+    background-color: #999999;
+}
+
+.colorStyle05 .M03_InfoPanel {
+    border-bottom: 1px solid #999999;
+}
+
+.colorStyle05 .M03_EduContentLabel {
+    border-left: 1px solid #999999;
+}
+
+
+
+
+.colorStyle06 .M03_Name, .colorStyle06 .M03_TopBlank01, .colorStyle06 .M03_TopBlank03, .colorStyle06 .M03_TopBlank05, .colorStyle06 .M03_TopBlank07 {
+    background-color: #FFA1D0;
+}
+
+.colorStyle06 .M03_TopBlank02, .colorStyle06 .M03_TopBlank06 {
+    background-color: #C244FB;
+}
+
+.colorStyle06 .M03_TopBlank04, .colorStyle06 .M03_TopBlank09 {
+    background-color: #FFF9C1;
+}
+
+.colorStyle06 .M03_TopBlank08 {
+    background-color: #84E9EF;
+}
+
+.colorStyle06 .M03_BlankPanel, .colorStyle06 .M03_BlankLabel {
+    background-color: #C244FB;
+}
+
+.colorStyle06 .M03_InfoPanel {
+    border-bottom: 1px solid #C244FB;
+}
+
+.colorStyle06 .M03_EduContentLabel {
+    border-left: 1px solid #C244FB;
+}
+/*-------------------------------- previewModel03 colorChange end --------------------------------*/

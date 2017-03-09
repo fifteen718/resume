@@ -1,0 +1,62 @@
+.previewModel02 {
+    background-color: white;
+    margin: 20px auto;
+}
+
+.previewModel02 * {
+    font-family: SimHei, 黑体, Hei, 华文细黑, 华文黑体;
+    color: #666666;
+}
+
+.M02_LeftPanel {
+    background-color: #CCCCCC;
+}
+
+.M02_NameLabel, .M02_ContactLabel {
+    font-weight: bold;
+    line-height: 22px;
+    text-align: right;
+    font-family: Tahoma;
+}
+
+.M02_NameLabel {
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.M02_ContactLabel {
+    font-size: 12px;
+    color: #666666;
+}
+
+.M02_Name {
+    font-size: 18px;
+    line-height: 30px;
+    text-align: left;
+    font-weight: bold;
+    color: #666666;
+    letter-spacing: 1px;
+}
+
+.M02_Job {
+    color: #6AA84F;
+    font-size: 14px;
+}
+
+.M02_Email {
+    font-size: 12px;
+}
+
+.M02_SpotLabel {
+    background-color: #6AA84F;
+}
+
+.M02_EduContentLabel {
+    border-left: 2px solid #6AA84F;
+    font-size: 12px;
+    font-family: SimSun, 宋体, 华文宋体;
+    padding-left: 8px;
+    text-overflow: ellipsis; /*设置超出部分显示...*/
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+}
